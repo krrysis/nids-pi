@@ -20,6 +20,7 @@ The current idea is to convert the logs into images and train the model using de
 
 
 (The project was made during UPES Hackathon 2020)
+co-authors: @wolf1892 , @rohanchavan1918
 
 
 
